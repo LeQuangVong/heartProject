@@ -1,0 +1,6 @@
+my_MAX30100.c:3:6:MAX30100_Init	40	static
+my_MAX30100.c:25:6:MAX30100_Read_FIFO	40	static
+my_MAX30100.c:35:7:low_pass_filter	32	static
+my_MAX30100.c:40:5:detect_peak	24	static
+my_MAX30100.c:53:7:calculate_spo2	40	static
+my_MAX30100.c:59:6:MAX30100_Reset	40	static
